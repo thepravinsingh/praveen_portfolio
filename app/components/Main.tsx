@@ -1,10 +1,10 @@
 export default function Main() {
   return (
-    <div className="my-10 greyTextColor">
-      <p className="  text-[#4ADE80]">Hi, my name is</p>
+    <div className="greyTextColor">
+      <p className=" text-[#4ADE80]">Hi, my name is</p>
       <div>
-        <h1 className="text-white">Praveen Singh</h1>
-        <h2>Building the web, better.</h2>
+        <h1 className=" font-bold whiteGreyTextColor">Praveen Singh</h1>
+        <h2 className=" font-semibold">Building the web, better.</h2>
       </div>
 
       <div>
@@ -19,7 +19,7 @@ export default function Main() {
         <p>impact.</p>
       </div>
 
-      <button className="text-[#4ADE80] border border-[#4ADE80] p-4">
+      <button className="text-[#4ADE80] border border-[#4ADE80] py-3 px-4 rounded-md">
         Get In Touch
       </button>
     </div>
