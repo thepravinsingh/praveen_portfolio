@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Slills() {
+export default function Skills() {
   const ImagesData = [
     {
       imageUrl:

@@ -54,3 +54,11 @@ p {
 .greenTextColor{
   color: #4ADE80;
 }
+
+.custom-button {
+  color: #4ADE80; /* Text color */
+  border: 1px solid #4ADE80; /* Border */
+  padding: 12px 16px; /* py-3 (12px), px-4 (16px) */
+  border-radius: 6px; /* rounded-md */
+}
+

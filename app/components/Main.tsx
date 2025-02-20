@@ -19,9 +19,7 @@ export default function Main() {
         <p>impact.</p>
       </div>
 
-      <button className="text-[#4ADE80] border border-[#4ADE80] py-3 px-4 rounded-md">
-        Get In Touch
-      </button>
+      <button className="custom-button">Get In Touch</button>
     </div>
   );
 }

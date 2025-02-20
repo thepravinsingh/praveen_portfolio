@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import AboutMe from "./components/AboutMe";
 import Experience from "./components/Experience";
 import Skills from "./components/Skills";
-
+import Contact from "./components/Contact";
 
 export default function Home() {
   return (
@@ -13,6 +13,7 @@ export default function Home() {
       <AboutMe />
       <Experience />
       <Skills />
+      <Contact />
     </div>
   );
 }
