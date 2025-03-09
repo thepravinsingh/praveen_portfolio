@@ -2,7 +2,7 @@ export default function Contact() {
   return (
     <div className="flex flex-col justify-center items-center gap-5">
       <div className="flex flex-col justify-center items-center gap-5 max-md:px-[10px] px-[250px] ">
-        <h4 className="font-bold greenTextColor">What's Next?</h4>
+        <h4 className="font-bold greenTextColor">What&apos;s Next?</h4>
         <h3 className="font-semibold text-[36px] whiteGreyTextColor">
           Get In Touch
         </h3>
