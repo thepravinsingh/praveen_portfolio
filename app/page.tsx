@@ -1,5 +1,4 @@
 import Main from "./components/Main";
-import Navbar from "./components/Navbar";
 import AboutMe from "./components/AboutMe";
 import Experience from "./components/Experience";
 import Skills from "./components/Skills";

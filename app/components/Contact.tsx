@@ -2,14 +2,14 @@ export default function Contact() {
   return (
     <section className="flex flex-col  items-center px-4 sm:px-6 lg:px-10" id="contact">
       <div className="flex flex-col items-center gap-6 max-w-xl w-full">
-        <h4 className="font-bold greenTextColor text-lg">What's Next?</h4>
+        <h4 className="font-bold greenTextColor text-lg">What&apos;s Next?</h4>
         <h3 className="font-semibold text-2xl sm:text-3xl lg:text-4xl whiteGreyTextColor">
           Get In Touch
         </h3>
         <p className="text-center greyTextColor  leading-relaxed text-xs sm:text-sm">
-          Let's Chat! Whether you have a question, a project idea, or just want
-          to connect, I'm always happy to hear from you. Drop me a message, and
-          I'll be in touch soon!
+          Let&apos;s Chat! Whether you have a question, a project idea, or just want
+          to connect, I&apos;m always happy to hear from you. Drop me a message, and
+          I&apos;ll be in touch soon!
         </p>
         <form className="flex flex-col gap-4 w-full ">
           <input
