@@ -26,7 +26,7 @@ export default function Experience() {
 
   return (
     <div id="experience">
-      <h3 className="greenTextColor font-bold mb-5">Experience</h3>
+      <h3 className="greenTextColor font-bold">Experience</h3>
       <div className="flex flex-col gap-15">
         {experiences.map((exp, index) => (
           <div
