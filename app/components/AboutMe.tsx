@@ -4,7 +4,7 @@ export default function AboutMe() {
       <h3 className="greenTextColor font-bold mb-5">About Me</h3>
       <div className="flex flex-col gap-10 max-w-[750px]">
         <h4 className="greyTextColor">
-          Hi there! I'm Praveen Singh, a full-stack developer specializing in
+          Hi there! I&apos;m Praveen Singh, a full-stack developer specializing in
           MERN (MongoDB, Express.js, React, Node.js) stack. My passion lies in
           developing efficient web applications, managing MongoDB databases, and
           ensuring seamless deployment. I am committed to creating dynamic,
